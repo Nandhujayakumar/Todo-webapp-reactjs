@@ -124,7 +124,7 @@
   }
   
   .list li label:hover::before {
-    background: hsl(200, 100%, 80%);
+    background: hsl(200, 100%, 80% );
   }
   
   .list li:has(input:checked) label::before {

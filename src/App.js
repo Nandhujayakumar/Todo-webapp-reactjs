@@ -52,7 +52,7 @@ export default function App(){
       <button className="btn">Add item</button>
     </form>
 
-    <h1 className="header">ToDo List</h1>
+    <h1 className="header">ToDo Lists</h1>
 
     <ul className="list">
       {todo.length === 0  && "No Todos"}
